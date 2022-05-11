@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/somureact/static/css/main.bf5a3d11.css",
+    "main.js": "/somureact/static/js/main.55faf9ba.js",
+    "static/js/787.d3befce1.chunk.js": "/somureact/static/js/787.d3befce1.chunk.js",
+    "index.html": "/somureact/index.html",
+    "main.bf5a3d11.css.map": "/somureact/static/css/main.bf5a3d11.css.map",
+    "main.55faf9ba.js.map": "/somureact/static/js/main.55faf9ba.js.map",
+    "787.d3befce1.chunk.js.map": "/somureact/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf5a3d11.css",
+    "static/js/main.55faf9ba.js"
+  ]
+}
